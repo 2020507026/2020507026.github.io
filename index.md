@@ -1,47 +1,19 @@
 ---
 layout: default
 ---
+# Burçlar hakkında
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Burûc kelimesi “**açığa çıkmak, görünmek, saray ve köşk**” anlamlarına gelen burcun çoğuludur. Astronomi terimi olarak __burç__, güneşin bir yılda takip ettiği düşünülen yörüngenin içlerinden geçtiği, belli sembollerle gösterilen on iki takım yıldızından her birini ifade eder.
 
-[Link to another page](./another-page.html).
+## Günlük burç yorumu
+**Bugün ne yapılabilir?** Günün büyük bir bölümünde Ay Koç burcunda ilerliyor. Ay saat 10:22’den itibaren boşluğa girecek. Sabah saatlerinde aceleci kararlardan, girişimlerden kaçınalım. Bu saatlerde enerjik olabiliriz ancak belirli bir baskı ve üzerinde engel oluşturan koşullar da var. Ay Boğa burcuna ilerleyeceği saat 17:46’ya kadar boşlukta kalacağı için gereksiz bir telaş içine girebiliriz.
 
-There should be whitespace between paragraphs.
+### Nelerden kaçınmalı?
+Ancak akşam saatlerinde daha istikrarlı ve en azından yönümüzü bilebileceğimiz şartlar oluşmakta. Bu saatlerde atılacak adımlar daha nitelikli ve uyumlu sonuçlar verebilir. Bugün parasal konularda israftan kaçınmalıyız. Akşam saatleri keyifli ve güzel olan şeylere daha açığız.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+#### Maya takviminde bugün
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Galaktik ton 9/Geyik** Bugün daha sabırlı olmalıyız.  Bugün Mayalara göre Geyik günündeyiz. Bu gün burcu hassasiyeti, sanatı, işbirliğini ve cömertliği anlatır. Başkalarına hizmet ve yardım edebileceğimiz bir gündeyiz.  Duygusal alanda daha mutlu ve olumlu ilişkiler geliştirebiliriz.
 
 ##### Header 5
 
@@ -51,12 +23,11 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
+**| SU BURÇLARI        | ATEŞ BURÇLARI          | TOPRAK BURÇLARI | HAVA BURÇLARI |**
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| **YENGEÇ           | KOÇ | BOĞA  | İKİZLER  |
+| AKREP | ASLAN   | BAŞAK  | TERAZİ  |
+| BALIK           | YAY      | OĞLAK   | KOVA  |**
 
 ### There's a horizontal rule below this.
 
